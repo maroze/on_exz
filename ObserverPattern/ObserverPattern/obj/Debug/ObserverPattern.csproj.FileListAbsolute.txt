@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\bin\Debug\Concrete.dll
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\bin\Debug\Concrete.pdb
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Пользователь\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

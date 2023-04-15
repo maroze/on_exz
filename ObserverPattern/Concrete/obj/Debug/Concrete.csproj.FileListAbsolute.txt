@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\ObserverPattern\Concrete\bin\Debug\Concrete.dll
+C:\Users\Пользователь\source\repos\ObserverPattern\Concrete\bin\Debug\Concrete.pdb
+C:\Users\Пользователь\source\repos\ObserverPattern\Concrete\obj\Debug\Concrete.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ObserverPattern\Concrete\obj\Debug\Concrete.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ObserverPattern\Concrete\obj\Debug\Concrete.dll
+C:\Users\Пользователь\source\repos\ObserverPattern\Concrete\obj\Debug\Concrete.pdb

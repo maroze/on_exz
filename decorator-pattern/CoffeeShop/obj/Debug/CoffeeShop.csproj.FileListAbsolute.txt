@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Source\Repos\decorator-pattern\CoffeeShop\bin\Debug\CoffeeShop.dll
+C:\Users\Пользователь\Source\Repos\decorator-pattern\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Пользователь\Source\Repos\decorator-pattern\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\decorator-pattern\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\decorator-pattern\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\Пользователь\Source\Repos\decorator-pattern\CoffeeShop\obj\Debug\CoffeeShop.pdb

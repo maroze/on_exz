@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\bin\Debug\SimUDuck.exe.config
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\bin\Debug\SimUDuck.exe
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\bin\Debug\SimUDuck.pdb
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\bin\Debug\ClassLibrary1.dll
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\bin\Debug\ClassLibrary1.pdb
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\obj\Debug\SimUDuck.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\obj\Debug\SimUDuck.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\obj\Debug\SimUDuck.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\obj\Debug\SimUDuck.exe
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\SimUDuck\obj\Debug\SimUDuck.pdb

@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\ClassLibrary1\obj\Release\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Пользователь\source\repos\ПМ01\strategy-pattern\ClassLibrary1\obj\Release\ClassLibrary1.pdb
